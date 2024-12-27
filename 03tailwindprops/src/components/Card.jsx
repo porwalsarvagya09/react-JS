@@ -2,7 +2,7 @@ import React from 'react'
 
 function Card(props) {
     console.log(props.course);
-    console.log(props.username);
+    
     
   return (
     <>
